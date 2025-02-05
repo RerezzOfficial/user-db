@@ -1,12 +1,5 @@
 [
   {
-    "username": "rerezz123",
-    "apikey": "a8f9c7db45b8816a0b6c5643e41e7204f92e04b78a55b4d1c409842d12ee1323",
-    "limit": 1000,
-    "tanggalDaftar": "2025-02-05T10:30:00Z",
-    "premium": true
-  },
-  {
     "username": "johndoe456",
     "apikey": "f5a2d4b9d0b1c8720648c32cb7c0d6f49758667cd13ffb4ecce63b1c845ff045",
     "limit": 100,
