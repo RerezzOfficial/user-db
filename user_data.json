@@ -32,9 +32,9 @@
   {
     "username": "anisa",
     "apikey": "24c1f067ca",
-    "limit": 100,
+    "limit": 1500,
     "tanggalDaftar": "2025-02-05T14:37:49.828Z",
-    "premium": false,
-    "balance": 4000
+    "premium": true,
+    "balance": 5000
   }
 ]
