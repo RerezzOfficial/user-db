@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "adm",
+    "apikey": "0d69d1f6b78e7995366df63373cdb4595302a825a8d7efff97888adce4783482",
+    "limit": 100,
+    "tanggalDaftar": "2025-02-05T10:48:36.909Z",
+    "premium": false
+  }
+]
