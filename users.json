@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "username": "admin",
+    "nomor": "6285216955233",
+    "email": "rerezhosting@gmail.com",
+    "password": "123",
+    "saldo": 0,
+    "tanggal_daftar": "2025-02-15"
+  }
+]
